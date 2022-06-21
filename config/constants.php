@@ -2,7 +2,7 @@
 // App Root
 define('APPROOT', dirname(dirname(__FILE__)));
 // URL Root
-define('URLROOT', 'http://localhost/php-basic-mvc');
+define('URLROOT', 'http://localhost/electro');
 // Site Name
 define('SITENAME', 'Electro');
 

@@ -10,6 +10,7 @@ class Index
 
   public function login()
   {
+    die('Entrou aqui');
     view('Index/login');
   }
 }
